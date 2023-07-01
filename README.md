@@ -7,7 +7,7 @@ Program ini dibuat untuk testcoding bersama PT Rekayasa Enginering
 
 - Clone or download this repos.
 - Migrate database.
-    Frist your must make database with mysql your can create databsae name "rekayasa" and run migration laravel
+    Frist your must make copy as from .env and your can create database with mysql database name "rekayasa" and run migration laravel
     <pre>php artisan migrate</pre>
 - Run npm.
     <pre>npm run dev</pre>
